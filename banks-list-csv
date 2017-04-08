@@ -1,5 +1,9 @@
 name, description, url, icon
-Axis Bank, 99999 Branches , file://axis-bank.json, https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-axis.png
+Axis Bank, 999999 Branches , file://axis-bank.json, https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-axis.png
 HDFC Bank, 999999 Branches , https://en.wikipedia.org, https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-hdfc.jpg
 ICICI Bank,999999 Branches,https://en.wikipedia.org, https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-icici.png
 Kotak Mahindra, 999999 Branches , https://en.wikipedia.org, https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-kotak-mahindra.png
+State Bank of India,999999 Branches,https://en.wikipedia.org,https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-sbi.png
+Bank of Baroda,999999 Branches,https://en.wikipedia.org,https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-bob.png
+Central Bank of India,999999 Branches,https://en.wikipedia.org,https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-central.png
+Punjab National Bank,999999 Branches,https://en.wikipedia.org,https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-pnb.png
