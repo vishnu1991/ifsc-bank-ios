@@ -1,9 +1,9 @@
 name, description, url, icon
-Axis Bank, 999999 Branches , file://axis-bank.json, https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-axis.png
+Axis Bank, 999999 Branches , file://axis-bank.json, https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-axis.jpg
 HDFC Bank, 999999 Branches , file://hdfc-bank.json, https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-hdfc.jpg
-ICICI Bank,999999 Branches,file://icici-bank.json, https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-icici.png
-Kotak Mahindra, 999999 Branches , file://kotak-bank.json, https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-kotak-mahindra.png
-State Bank of India (SBI),999999 Branches,file://sbi-bank.json,https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-sbi.png
-Bank of Baroda (BOB),999999 Branches,file://bob-bank.json,https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-bob.png
-Central Bank of India (CB),999999 Branches,file://cbi-bank.json,https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-central.png
-Punjab National Bank (PNB) ,999999 Branches,file://pnb-bank.json,https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-pnb.png
+ICICI Bank,999999 Branches,file://icici-bank.json, https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-icici.jpg
+Kotak Mahindra, 999999 Branches , file://kotak-bank.json, https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-kotak-mahindra.jpg
+State Bank of India (SBI),999999 Branches,file://sbi-bank.json,https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-sbi.jpg
+Bank of Baroda (BOB),999999 Branches,file://bob-bank.json,https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-bob.jpg
+Central Bank of India (CB),999999 Branches,file://cbi-bank.json,https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-central.jpg
+Punjab National Bank (PNB) ,999999 Branches,file://pnb-bank.json,https://raw.githubusercontent.com/vishnu1991/ifsc-bank-ios/master/assets/bank-pnb.jpg
